@@ -1,0 +1,13 @@
+C:\Users\neina\source\repos\Organization\Organization\bin\Debug\Organization.exe.config
+C:\Users\neina\source\repos\Organization\Organization\bin\Debug\Organization.exe
+C:\Users\neina\source\repos\Organization\Organization\bin\Debug\Organization.pdb
+C:\Users\neina\source\repos\Organization\Organization\obj\Debug\Organization.csprojAssemblyReference.cache
+C:\Users\neina\source\repos\Organization\Organization\obj\Debug\Organization.Form1.resources
+C:\Users\neina\source\repos\Organization\Organization\obj\Debug\Organization.Properties.Resources.resources
+C:\Users\neina\source\repos\Organization\Organization\obj\Debug\Organization.csproj.GenerateResource.cache
+C:\Users\neina\source\repos\Organization\Organization\obj\Debug\Organization.exe
+C:\Users\neina\source\repos\Organization\Organization\obj\Debug\Organization.pdb
+C:\Users\neina\source\repos\Organization\Organization\obj\Debug\Organization.Menu.resources
+C:\Users\neina\source\repos\Organization\Organization\obj\Debug\Organization.Add.resources
+C:\Users\neina\source\repos\Organization\Organization\obj\Debug\Organization.Search.resources
+C:\Users\neina\source\repos\Organization\Organization\obj\Debug\Organization.Show.resources
